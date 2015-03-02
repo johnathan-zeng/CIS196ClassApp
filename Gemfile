@@ -4,6 +4,8 @@ gem 'annotate'
 
 gem 'paperclip', '~> 4.2'
 
+gem 'devise'
+
 gem 'bootstrap-sass', '~> 3.3.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
